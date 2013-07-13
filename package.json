@@ -1,0 +1,12 @@
+{
+  "name"        : "fitbit-metrics",
+  "version"     : "0.0.1",
+  "author"      : "Ryan Ewing <ewing.ryan@gmail.com>",
+  "description" : "Fitbit charts are lacking.",
+  "dependencies": {
+    "express"      : ">= 3.0.0",
+    "oauth"        : "*",
+    "underscore" : "*",
+    "mongoskin"    : "*"
+  }
+}
